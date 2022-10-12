@@ -1,0 +1,5 @@
+{
+    "solidity.defaultCompiler": "localNodeModule",
+    "solidity.compileUsingRemoteVersion": "latest",
+    "solidity.compileUsingLocalVersion": "d:\\sstudy\\Portfolio\\nft-deploy\\soljson-v0.8.17+commit.8df45f5f.js"
+}
